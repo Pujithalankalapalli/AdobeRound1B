@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "input_documents": [
+            "adobe.pdf"
+        ],
+        "persona": "Undergraduate Chemistry Student",
+        "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+        "processing_timestamp": "2025-07-27T16:05:19.775507"
+    },
+    "extracted_sections": [
+        {
+            "document": "adobe.pdf",
+            "page_number": 8,
+            "section_title": "•   Job : \"Identify key concepts and mechanisms for exam preparation  on reaction kinetics\"",
+            "importance_rank": 1
+        },
+        {
+            "document": "adobe.pdf",
+            "page_number": 8,
+            "section_title": "•   Persona : Undergraduate Chemistry Student",
+            "importance_rank": 2
+        },
+        {
+            "document": "adobe.pdf",
+            "page_number": 8,
+            "section_title": "•   Documents : 5 chapters from organic chemistry textbooks",
+            "importance_rank": 3
+        },
+        {
+            "document": "adobe.pdf",
+            "page_number": 7,
+            "section_title": "•   Persona can again be very diverse (Example: Researcher, Student,  Salesperson, Journalist, Entre",
+            "importance_rank": 4
+        },
+        {
+            "document": "adobe.pdf",
+            "page_number": 7,
+            "section_title": "•   Job-to-be-done: This will be related to the persona (Example:  Provide a literature review for a",
+            "importance_rank": 5
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "adobe.pdf",
+            "refined_text": "•   Job : \"Identify key concepts and mechanisms for exam preparation  on reaction kinetics\"",
+            "page_number": 8
+        },
+        {
+            "document": "adobe.pdf",
+            "refined_text": "•   Persona : Undergraduate Chemistry Student",
+            "page_number": 8
+        },
+        {
+            "document": "adobe.pdf",
+            "refined_text": "•   Documents : 5 chapters from organic chemistry textbooks",
+            "page_number": 8
+        },
+        {
+            "document": "adobe.pdf",
+            "refined_text": "•   Persona can again be very diverse (Example: Researcher, Student,  Salesperson, Journalist, Entrepreneur etc)",
+            "page_number": 7
+        },
+        {
+            "document": "adobe.pdf",
+            "refined_text": "•   Job-to-be-done: This will be related to the persona (Example:  Provide a literature review for a given topic and available research  papers, What should I study for Organic Chemistry given the  chemistry documents, Summarize the financials of corporation xyz  given the detailed year end financial reports etc.)",
+            "page_number": 7
+        }
+    ]
+}
